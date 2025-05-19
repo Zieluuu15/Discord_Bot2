@@ -1,0 +1,152 @@
+{
+    "Monday": [
+        {
+            "time": "08:55",
+            "subject": "Polski",
+            "room": "3"
+        },
+        {
+            "time": "09:50",
+            "subject": "Matematyka",
+            "room": "3"
+        },
+        {
+            "time": "10:35",
+            "subject": "WF",
+            "room": "6"
+        },
+        {
+            "time": "11:45",
+            "subject": "WF",
+            "room": "6"
+        },
+        {
+            "time": "12:35",
+            "subject": "Angielski",
+            "room": "3"
+        },
+        {
+            "time": "13:25",
+            "subject": "Dodatkowe",
+            "room": "8"
+        }
+    ],
+    "Tuesday": [
+        {
+            "time": "08:00",
+            "subject": "Sportowe",
+            "room": "6"
+        },
+        {
+            "time": "08:55",
+            "subject": "Polski",
+            "room": "3"
+        },
+        {
+            "time": "09:40",
+            "subject": "Polski",
+            "room": "3"
+        },
+        {
+            "time": "10:35",
+            "subject": "Matematyka",
+            "room": "3"
+        },
+        {
+            "time": "11:45",
+            "subject": "Informatyka",
+            "room": "3"
+        },
+        {
+            "time": "12:35",
+            "subject": "Taneczne",
+            "room": "6"
+        }
+    ],
+    "Wensday": [
+        {
+            "time": "8:00",
+            "subject": "Polski",
+            "room": "3"
+        },
+        {
+            "time": "8:55",
+            "subject": "Polski",
+            "room": "3"
+        },
+        {
+            "time": "9:50",
+            "subject": "Matematyka",
+            "room": "3"
+        },
+        {
+            "time": "10:35",
+            "subject": "Matematyka",
+            "room": "3"
+        },
+        {
+            "time": "11:45",
+            "subject": "Religia",
+            "room": "3"
+        }
+    ],
+    "Thursday": [
+        {
+            "time": "8:00",
+            "subject": "Religia",
+            "room": "3"
+        },
+        {
+            "time": "8:55",
+            "subject": "Matematyka",
+            "room": "3"
+        },
+        {
+            "time": "9:45",
+            "subject": "Polski",
+            "room": "3"
+        },
+        {
+            "time": "10:35",
+            "subject": "Polski",
+            "room": "3"
+        },
+        {
+            "time": "11:45",
+            "subject": "WF",
+            "room": "3"
+        }
+    ],
+    "Friday": [
+        {
+            "time": "8:55",
+            "subject": "Polski",
+            "room": "3"
+        },
+        {
+            "time": "9:45",
+            "subject": "Polski",
+            "room": "3"
+        },
+        {
+            "time": "10:35",
+            "subject": "Matematyka",
+            "room": "3"
+        },
+        {
+            "time": "11:45",
+            "subject": "Matematyka",
+            "room": "3"
+        },
+        {
+            "time": "12:35",
+            "subject": "Angielski",
+            "room": "3"
+        },
+        {
+            "time": "13:25",
+            "subject": "Dodatkowe",
+            "room": "8"
+        }
+    ]
+}
